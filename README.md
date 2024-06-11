@@ -1,5 +1,3 @@
-Sure! Here’s a more concise version of the `README.md` file:
-
 ```markdown
 # Iris Model API
 
